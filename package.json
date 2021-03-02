@@ -1,0 +1,19 @@
+{
+  "name": "artic-angular-imitation",
+  "version": "1.0.0",
+  "description": "trying to rebuild elements of artic in angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamanthaClarke1/artic-angular-imitation.git"
+  },
+  "author": "samantha clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamanthaClarke1/artic-angular-imitation/issues"
+  },
+  "homepage": "https://github.com/SamanthaClarke1/artic-angular-imitation#readme"
+}
